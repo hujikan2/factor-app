@@ -1,0 +1,6 @@
+streamlit
+numpy
+tensorflow-cpu
+scikit-learn
+streamlit_lottie
+nltk
