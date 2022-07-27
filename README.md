@@ -8,3 +8,11 @@ Sebuah Web Application yang dirancang untuk menekan penyebaran berita palsu, den
 **FACTOR APP** memiliki kemampuan untuk mendeteksi berita palsu hanya dengan sekali klik dengan akurasi lebih dari 98%. FACTOR APP dapat di akses 👉 [disini](https://fake-true-detector.herokuapp.com/)
 
 
+## Requirements
+
+- streamlit
+- numpy
+- tensorflow
+- scikit-learn
+- streamlit_lottie
+- nltk
