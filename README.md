@@ -5,4 +5,6 @@ The primary objective of this project is simple, flagging fake news. This is don
 
 Sebuah Web Application yang dirancang untuk menekan penyebaran berita palsu, dengan bantuan teknologi Tensorflow. Kita membuat model yang dapat melakukan deteksi berita palsu dan berita benar.
 
+**FACTOR APP** memiliki kemampuan untuk mendeteksi berita palsu hanya dengan sekali klik dengan akurasi lebih dari 98%. FACTOR APP dapat di akses 👉 [disini](https://fake-true-detector.herokuapp.com/)
+
 
