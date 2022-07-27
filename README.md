@@ -2,6 +2,9 @@
 The primary objective of this project is simple, flagging fake news. This is done utilising various Deep Learning algorithms and generic classifiers. The best performing algorithm is then deployed using Heroku.
 
 # FACTOR APP
+**Author**: *`Rizal Aditya`* <br>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rzladitya/)](https://www.linkedin.com/in/rzladitya/)
 
 Sebuah Web Application yang dirancang untuk menekan penyebaran berita palsu, dengan bantuan teknologi Tensorflow. Kita membuat model yang dapat melakukan deteksi berita palsu dan berita benar.
 
